@@ -1,10 +1,10 @@
 ### Olá, Hello! 😃
 
-Meu nome é André, um programador brasileiro recém graduado em Ciências da Computação e com grande interesse pela área! Aqui você pode encontrar alguns projetos que fiz por conta ou como parte de minha vida acadêmica.
+Meu nome é André, um programador brasileiro recém graduado em Ciências da Computação e trabalhando atualmente como Desenvolvedor Júnior! Aqui você pode encontrar alguns projetos que fiz por conta ou como parte de minha vida acadêmica.
 
 Trabalho atualmente nos quatro projetos fixos abaixo. No momento, o foco maior está no TeacherFox.
 
-My name is André, a brazilian programmer recently graduated in Computer Science and with a great interest in the area! Here you can find some projects I made by myself or during my academic life.
+My name is André, a brazilian programmer recently graduated in Computer Science and currently working as a junior developer! Here you can find some projects I made by myself or during my academic life.
 
 I'm currently working in the four pinned projects below. At the moment, TeacherFox has the most focus.
 
